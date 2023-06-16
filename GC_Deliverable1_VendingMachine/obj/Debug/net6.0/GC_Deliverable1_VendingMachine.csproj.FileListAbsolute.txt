@@ -1,0 +1,15 @@
+C:\Users\Digit\source\repos\GC_Deliverable1_VendingMachine\GC_Deliverable1_VendingMachine\bin\Debug\net6.0\GC_Deliverable1_VendingMachine.exe
+C:\Users\Digit\source\repos\GC_Deliverable1_VendingMachine\GC_Deliverable1_VendingMachine\bin\Debug\net6.0\GC_Deliverable1_VendingMachine.deps.json
+C:\Users\Digit\source\repos\GC_Deliverable1_VendingMachine\GC_Deliverable1_VendingMachine\bin\Debug\net6.0\GC_Deliverable1_VendingMachine.runtimeconfig.json
+C:\Users\Digit\source\repos\GC_Deliverable1_VendingMachine\GC_Deliverable1_VendingMachine\bin\Debug\net6.0\GC_Deliverable1_VendingMachine.dll
+C:\Users\Digit\source\repos\GC_Deliverable1_VendingMachine\GC_Deliverable1_VendingMachine\bin\Debug\net6.0\GC_Deliverable1_VendingMachine.pdb
+C:\Users\Digit\source\repos\GC_Deliverable1_VendingMachine\GC_Deliverable1_VendingMachine\obj\Debug\net6.0\GC_Deliverable1_VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Digit\source\repos\GC_Deliverable1_VendingMachine\GC_Deliverable1_VendingMachine\obj\Debug\net6.0\GC_Deliverable1_VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digit\source\repos\GC_Deliverable1_VendingMachine\GC_Deliverable1_VendingMachine\obj\Debug\net6.0\GC_Deliverable1_VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Digit\source\repos\GC_Deliverable1_VendingMachine\GC_Deliverable1_VendingMachine\obj\Debug\net6.0\GC_Deliverable1_VendingMachine.AssemblyInfo.cs
+C:\Users\Digit\source\repos\GC_Deliverable1_VendingMachine\GC_Deliverable1_VendingMachine\obj\Debug\net6.0\GC_Deliverable1_VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Digit\source\repos\GC_Deliverable1_VendingMachine\GC_Deliverable1_VendingMachine\obj\Debug\net6.0\GC_Deliverable1_VendingMachine.dll
+C:\Users\Digit\source\repos\GC_Deliverable1_VendingMachine\GC_Deliverable1_VendingMachine\obj\Debug\net6.0\refint\GC_Deliverable1_VendingMachine.dll
+C:\Users\Digit\source\repos\GC_Deliverable1_VendingMachine\GC_Deliverable1_VendingMachine\obj\Debug\net6.0\GC_Deliverable1_VendingMachine.pdb
+C:\Users\Digit\source\repos\GC_Deliverable1_VendingMachine\GC_Deliverable1_VendingMachine\obj\Debug\net6.0\GC_Deliverable1_VendingMachine.genruntimeconfig.cache
+C:\Users\Digit\source\repos\GC_Deliverable1_VendingMachine\GC_Deliverable1_VendingMachine\obj\Debug\net6.0\ref\GC_Deliverable1_VendingMachine.dll
